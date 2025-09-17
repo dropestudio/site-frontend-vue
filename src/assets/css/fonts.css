@@ -1,0 +1,21 @@
+@font-face {
+  font-family: 'Noah Bold';
+  font-style: normal;
+  font-weight: 400;
+  src: url('fonts/Noah_ExtraBold.ttf') format('opentype');
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Noah';
+  font-style: normal;
+  font-weight: 400;
+  src: url('fonts/Noah_Regular.ttf') format('opentype');
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Morganite-ExtraBold';
+  font-style: normal;
+  font-weight: 400;
+  src: url('fonts/Morganite-ExtraBold.ttf') format('opentype');
+  font-display: swap;
+}

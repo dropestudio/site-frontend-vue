@@ -1,0 +1,121 @@
+{
+  "menu": {
+    "home": "home",
+    "about": "sobre",
+    "portifolio": "portfólio",
+    "budget": "orçamento",
+    "contact": "contato"
+  },
+  "home": {
+    "title": "OBTENHA UMA IDENTIDADE VISUAL MEMORÁVEL",
+    "description": "Eleve o  <strong>Valor</strong> da sua marca e negócio através de um design autêntico e exclusivo.",
+    "cta-message": "Entre em contato comigo através do whatsapp"
+  },
+  "about": {
+    "section-title": "Sobre",
+    "description_1": "A <strong>Drop</strong> é um estúdio de design focado em desenvolver projetos autênticos, tornando a sua marca exclusiva e memorável.",
+    "description_2": "“Drop”, palavra-chave que deve ser levada em conta antes de iniciar qualquer processo de criação, seja ele uma  identidade visual, campanha ou até um simples post. Largar nossos medos, ansiedade e expectativa, focando apenas em entregar um projeto único que supra a necessidade do cliente.",
+    "description_3": "E ai, bora “dropar” um projeto juntos?"
+  },
+  "feedback": {
+    "section-title": "Feedback de Clientes"
+  },
+  "budget": {
+    "section-title": "Solicite seu Orçamento!",
+    "section-description-one": "Preencha o formulário online e receba seu ",
+    "section-description-two": "orçamento de uma forma mais simples, rápida e fácil.",
+    "image-alternative-text": "Solicitação de Orçamento - Drop Estúdio",
+    "form": {
+      "title": "Solicite seu orçamento preenchendo os campos abaixo",
+      "costumer_detail": {
+        "name": "Seu nome completo*",
+        "email": "Endereço de e-mail*",
+        "whatsapp": "WhatsApp com DDD",
+        "company_name": "Nome da empresa",
+        "city": "Cidade",
+        "region": "Estado",
+        "company_site": "Site da sua empresa",
+        "company_instagram": "Instagram da sua empresa"
+      },
+      "findme": {
+        "title": "Como você me encontrou?",
+        "google": "Google",
+        "instagram": "Instagram",
+        "indication": "Indicação",
+        "other": "Outro"
+      },
+      "job_wanting": {
+        "description": "Por que você precisa deste projeto? Quais são seus objetivos?"
+      },
+      "company_business": {
+        "title": "Qual seu tipo de negócio?",
+        "business": {
+          "services": "Serviços / Empresa",
+          "restaurant": "Bares e Restaurante",
+          "products": "Linha de Produto",
+          "clothes": "Roupas e Acessórios",
+          "eletronic": "Eletro / Eletrônicos",
+          "photography": "Fotografia",
+          "other": "Outro"
+        }
+      },
+      "company_size": {
+        "title": "Porte da empresa",
+        "size": {
+          "freelancer": "Profissional Liberal",
+          "micro": "Micro (2-10 Funcionários)",
+          "small": "Pequena (10-50 Funcionários)",
+          "medium": "Média (50-100 Funcionários)",
+          "big": "Grande (Mais de 100 Funcionários)"
+        }
+      },
+      "visual_identity": {
+        "title": "Identidade Visual - Além do logotipo, marque abaixo os itens para seu projeto",
+        "vi": {
+          "banner": "Banner / Capa para Facebook",
+          "card": "Cartão de visitas",
+          "digital_card": "Cartão de visitas digital",
+          "email_signature": "Assinatura de e-mail",
+          "stickers": "Adesivo",
+          "cracha": "Crachá",
+          "papel_timbrado": "Papel timbrado",
+          "pasta_a4": "Pasta A4",
+          "carimbo": "Carimbo",
+          "ig_post": "Template de post para Instagram",
+          "brinde": "Brindes (Ex: Lápis/caneca/chaveiro)",
+          "uniforme": "Uniforme / Avental",
+          "other": "Outro"
+        },
+        "papers": {
+          "description": "Papelaria",
+          "want": "Quero receber as peças somente em formato digital",
+          "dontwant": "Quero receber os itens impressos através de encomenda"
+        }
+      },
+      "message_extra": "Ainda tem algo a dizer? Fique à vontade para contribuir com outras informações",
+      "submit_error_name": "O seu nome é obrigatório, preencha e tente novamente",
+      "submit_error_email": "O seu e-mail é obrigatório, preencha e tente novamente",
+      "submit_success": "Orçamento enviado com sucesso, aguarde o meu contato"
+    }
+  },
+  "contact": {
+    "section-title": "Contato",
+    "section-description": "Diga um Oi! ou me encontre nas redes sociais",
+    "section-social": "Me encontre em",
+    "contact-successfull-message": "E-mail enviado com sucesso! Em breve entrarei em contato com você.",
+    "form": {
+      "name": "Nome completo*",
+      "email": "E-mail*",
+      "subject": "Assunto*",
+      "message": "Mensagem*",
+      "error_message": "Preencha os campos obrigatórios"
+    }
+  },
+  "button": {
+    "send": "Enviar",
+    "portfolio": "Portfólio",
+    "contact": "Contato",
+    "return": "VOLTAR",
+    "budget-call": "Solicitar Agora!"
+  }
+}

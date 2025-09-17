@@ -1,0 +1,121 @@
+{
+  "menu": {
+    "home": "home",
+    "about": "about",
+    "portifolio": "portfolio",
+    "budget": "budget",
+    "contact": "contact"
+  },
+  "home": {
+    "title": "GET A MEMORABLE VISUAL IDENTITY",
+    "description": "Elevate the <strong>Value</strong> of your brand and business through an authentic and exclusive design.",
+    "cta-message": "Contact me via WhatsApp"
+  },
+  "about": {
+    "section-title": "About",
+    "description_1": "<strong>Drop</strong> is a design studio focused on developing authentic projects, making your brand exclusive and memorable.",
+    "description_2": "“Drop”, a keyword that must be taken into account before starting any creation process, whether it is a visual identity, campaign or even a simple post. Let go of our fears, anxiety and expectations, focusing only on delivering a unique project that meets the client's needs.",
+    "description_3": "So, let's “drop” a project together?"
+  },
+  "feedback": {
+    "section-title": "Customer Feedback"
+  },
+  "budget": {
+    "section-title": "Request your Budget!",
+    "section-description-one": "Complete the online form and receive your ",
+    "section-description-two": "budget in a simpler, quicker and easier way.",
+    "image-alternative-text": "Budget request - Drop Estúdio",
+    "form": {
+      "title": "Request your quote by filling in the fields below",
+      "costumer_detail": {
+        "name": "Your full name*",
+        "email": "Email address*",
+        "whatsapp": "WhatsApp with area code",
+        "company_name": "Company Name",
+        "city": "City",
+        "region": "State",
+        "company_site": "Your company's website",
+        "company_instagram": "Your company's instagram"
+      },
+      "findme": {
+        "title": "How did you find me?",
+        "google": "Google",
+        "instagram": "Instagram",
+        "indication": "Recommendation",
+        "other": "Other"
+      },
+      "job_wanting": {
+        "description": "Why do you need this project? What are your goals?"
+      },
+      "company_business": {
+        "title": "What is your business type?",
+        "business": {
+          "services": "Services / Company",
+          "restaurant": "Bars and Restaurants",
+          "products": "Product line",
+          "clothes": "Clothing and Accessories",
+          "eletronic": "Electronics",
+          "photography": "Photography",
+          "other": "Other"
+        }
+      },
+      "company_size": {
+        "title": "Company size",
+        "size": {
+          "freelancer": "Freelancer",
+          "micro": "Micro (2-10 Employees)",
+          "small": "Small (10-50 Employees)",
+          "medium": "Average (50-100 Employees)",
+          "big": "Large (More than 100 Employees)"
+        }
+      },
+      "visual_identity": {
+        "title": "Visual Identity - In addition to the logo, check the items for your project below",
+        "vi": {
+          "banner": "Banner / Cover for Facebook",
+          "card": "Business card",
+          "digital_card": "Digital Business Card",
+          "email_signature": "E-mail signature",
+          "stickers": "Sticker",
+          "cracha": "Name Tag",
+          "papel_timbrado": "Letterhead paper",
+          "pasta_a4": "A4 folder",
+          "carimbo": "Stamp",
+          "ig_post": "Instagram post template",
+          "brinde": "Gifts (Ex: Pencil/Mug/Keychain)",
+          "uniforme": "Uniform / Apron",
+          "other": "Other"
+        },
+        "papers": {
+          "description": "Stationery",
+          "want": "I want to receive the pieces only in digital format",
+          "dontwant": "I want to receive the printed items by order"
+        }
+      },
+      "message_extra": "Do you still have something to say? Please feel free to contribute with other information.",
+      "submit_error_name": "Your name is mandatory, please fill in and try again",
+      "submit_error_email": "Your e-mail is mandatory, please fill in and try again",
+      "submit_success": "Budget sent successfully, awaits my contact"
+    }
+  },
+  "contact": {
+    "section-title": "Contact",
+    "section-description": "Say hello! or find me on social media",
+    "section-social": "Meet me at",
+    "contact-successfull-message": "Email sent successfully! I will get in touch with you shortly.",
+    "form": {
+      "name": "Full Name*",
+      "email": "E-mail*",
+      "subject": "Subject*",
+      "message": "Message*",
+      "error_message": "Fill in the mandatory fields"
+    }
+  },
+  "button": {
+    "send": "Submit",
+    "portfolio": "Portfolio",
+    "contact": "Contact",
+    "return": "RETURN",
+    "budget-call": "Apply Now!"
+  }
+}

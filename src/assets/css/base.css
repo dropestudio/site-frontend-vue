@@ -1,0 +1,107 @@
+:root {
+  --main-color: #00dddc;
+  --main-background-color: #131313;
+  --white: #ffffff;
+  --gray-shadon: #303030;
+  --dark-footer: #0f0f0f;
+  --df-gray: #cccccc;
+  --black: #000000;
+  --grey-shrink: #1f1f1f;
+  --home-bg: rgb(18, 18, 18);
+  --input-border: #383838;
+  --input-bg: #1a1919;
+}
+
+body,
+html {
+  margin: 0;
+  padding: 0;
+  max-width: 100%;
+  background-color: var(--main-background-color);
+  color: var(--white);
+  overflow-x: hidden;
+  scroll-behavior: smooth;
+  font-family: 'Noah';
+}
+::selection {
+  background-color: var(--main-color);
+  color: var(--white);
+}
+*:focus {
+  outline: none !important;
+  box-shadow: none !important;
+}
+.footer {
+  background-color: var(--dark-footer);
+  width: 100%;
+  padding-top: 2rem;
+  padding-bottom: 1rem;
+  text-align: center;
+  margin-top: 6rem;
+}
+.motion-presentation {
+  position: fixed;
+  left: 0px;
+  top: 0px;
+  z-index: 9999;
+  background-color: var(--black);
+  width: 100%;
+  height: 100%;
+}
+.motion-presentation img {
+  position: absolute;
+  margin: auto;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+.motion-presentation-fade-out {
+  transition: opacity 3s ease-in-out;
+  -webkit-transition: opacity 3s ease-in-out;
+  -ms-transition: opacity 3s ease-in-out;
+  -o-transition: opacity 3s ease-in-out;
+  -moz-transition: opacity 3s ease-in-out;
+  opacity: 1;
+}
+.modal-open-landing {
+  position: fixed;
+}
+.rotate-180 {
+  transform: rotate(-180deg);
+  -webkit-transform: rotate(-180deg);
+  -ms-transform: rotate(-180deg);
+  -o-transform: rotate(-180deg);
+  -moz-transform: rotate(-180deg);
+  transition: transform 150ms ease;
+  -webkit-transition: transform 150ms ease;
+  -ms-transition: transform 150ms ease;
+  -o-transition: transform 150ms ease;
+  -moz-transition: transform 150ms ease;
+}
+.rotate-360 {
+  transform: rotate(-360deg);
+  -webkit-transform: rotate(-360deg);
+  -ms-transform: rotate(-360deg);
+  -o-transform: rotate(-360deg);
+  -moz-transform: rotate(-360deg);
+  transition: transform 150ms ease;
+  -webkit-transition: transform 150ms ease;
+  -ms-transition: transform 150ms ease;
+  -o-transition: transform 150ms ease;
+  -moz-transition: transform 150ms ease;
+}
+.bootbox-body {
+  color: var(--black);
+}
+.hide {
+  display: none;
+}
+.bootbox .btn-primary {
+  background-color: var(--main-color) !important;
+  border-color: var(--main-color) !important;
+}
+.bootbox .btn-primary:hover {
+  color: var(--main-color) !important;
+  background-color: var(--white) !important;
+}
